@@ -16,7 +16,7 @@ Education
 Rice University
 
  * Bachelor of Arts, Neuroscience
- * 2020 - 2024)
+ * 2020 - 2024
 
  American International School, Riyadh
  
