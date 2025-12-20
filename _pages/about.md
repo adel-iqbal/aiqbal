@@ -13,12 +13,12 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Education
 ------
-Rice University
+Rice University (Houston, TX)
 
  * Bachelor of Arts, Neuroscience
  * 2020 - 2024
 
- American International School, Riyadh
+ American International School (Riyadh, Saudi Arabia)
  
   * International Baccalaureate Diploma Programme
   * 2016 - 2020
