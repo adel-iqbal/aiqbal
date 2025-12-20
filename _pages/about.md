@@ -15,11 +15,11 @@ Education
 ======
 Rice University
 
- *Bachelor of Arts, Neuroscience (2020 - 2024)
+ * Bachelor of Arts, Neuroscience (2020 - 2024)
 
  American International School, Riyadh
  
-  *International Baccalaureate Diploma Programme (2016 - 2020)
+  * International Baccalaureate Diploma Programme (2016 - 2020)
 
 Getting started
 ======
