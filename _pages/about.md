@@ -28,7 +28,8 @@ Select Publications
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Iqbal S, Sharma S, Aslanian A, Shaikh J, **Iqbal A\*.** TCT-1070 The Hidden Geography of Acute Myocardial Infarction Mortality: A National Analysis of Regional and Urban-Rural Disparities (2018–2023). JACC. 2025 Oct, 86 (17_Supplement), B456–B457. Publication Status: Published. Article URL: https://doi.org/10.1016/j.jacc.2025.09.1273
+
 
 Select Presentations
 ------
