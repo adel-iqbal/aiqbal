@@ -9,8 +9,18 @@ redirect_from:
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. 
 
-Education
+Education and Training
 ------
+Texas Tech University Health Sciences Center (Amarillo, Texas)
+
+ * Clinical Research Assistant
+ * 2024-2025
+
+Baylor College of Medicine (Houston, TX)
+
+ * Clinical Research Assistant (2023-2024)
+ * Research Assistant (2022-2024)
+
 Rice University (Houston, TX)
 
  * Bachelor of Arts, Neuroscience
