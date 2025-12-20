@@ -14,8 +14,10 @@ This is the front page of a website that is powered by the [Academic Pages templ
 Education
 ======
 Rice University
-Bachelor of Arts, Neuroscience
-2020 - 2024
+
+ Bachelor of Arts, Neuroscience
+
+ 2020 - 2024
 
 Getting started
 ======
