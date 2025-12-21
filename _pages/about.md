@@ -22,7 +22,7 @@ Rice University (Houston, TX)
   * International Baccalaureate Diploma Programme
   * 2016 - 2020
 
-Training and Affiliations
+Research Affiliations
 ------
 
 Texas Tech University Health Sciences Center (Amarillo, TX)
