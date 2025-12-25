@@ -25,11 +25,11 @@ Rice University (Houston, TX)
 Research Affiliations
 ------
 
-Texas Tech University Health Sciences Center (Amarillo, TX)
+Department of Internal Medicine, Texas Tech University Health Sciences Center (Amarillo, TX)
 
-Baylor College of Medicine (Houston, TX)
+Department of Neurology, Baylor College of Medicine (Houston, TX)
 
-University of Texas at San Antonio Health Science Center (San Antonio, TX)
+Department of Mitochondrial Medicine, University of Texas at San Antonio Health Science Center (San Antonio, TX)
 
 Select Publications
 ------
