@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Academic Portfolio"
+title: ""
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
+classes: no-top-space
 ---
+
 
 
 Education
