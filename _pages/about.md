@@ -29,6 +29,8 @@ Department of Internal Medicine, Texas Tech University Health Sciences Center (A
 
 Department of Neurology, Baylor College of Medicine (Houston, TX)
 
+Center for Mitochondrial Medicine, UT San Antonio Health Science Center
+
 
 Select Publications
 ------
