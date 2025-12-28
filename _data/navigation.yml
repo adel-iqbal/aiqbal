@@ -11,8 +11,8 @@ main:
   - title: "Education"
     url: "/#education"
 
-  - title: "Awards and Honors"
-    url: /awards/    
+  - title: "Research Affiliations"
+    url: "/#research-affiliations"    
 
   - title: "Select Publications"
     url: /publications/    
