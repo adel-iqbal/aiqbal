@@ -15,7 +15,7 @@ main:
     url: "/#research-affiliations"    
 
   - title: "Select Publications"
-    url: /publications/    
+    url: "#select-publications/"
     
   - title: "Select Presentations"
     url: /portfolio/
