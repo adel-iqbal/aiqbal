@@ -43,7 +43,7 @@ Select Publications
 Select Presentations
 ------
 1. Huang A, Dang R, **Iqbal A\*,** Nguyen C, Govindu S, Tang O, Somani NA, Al-Mohtaseb Z. 63rd Annual National Student Research Forum. Poster presented: Medical Student Research in the Pass/Fail Step 1 Era: An Altmetric Analysis of Ophthalmology Matriculants. Galveston, TX, United States of America; 05/14/2022.
-1. Iqbal S, Sharma S, Aslanian A, Shaikh J, **Iqbal A\*.** American College of Gastroenterology (ACG) 2025 Annual Meeting. Poster presented: Invasive Mucinous Adenocarcinoma of the Appendix Masquerading as Acute Appendicitis: A Rare Diagnostic Challenge. Phoenix, AZ, United States of America; 10/24/2025–10/29/2025.
+1. Iqbal S, Sharma S, Aslanian A, Shaikh J, **Iqbal A\*.** American College of Gastroenterology 2025 Annual Meeting. Poster presented: Invasive Mucinous Adenocarcinoma of the Appendix Masquerading as Acute Appendicitis: A Rare Diagnostic Challenge. Phoenix, AZ, United States of America; 10/24/2025–10/29/2025.
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
