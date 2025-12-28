@@ -15,10 +15,10 @@ main:
     url: "/#research-affiliations"    
 
   - title: "Select Publications"
-    url: "#select-publications/"
+    url: "/#select-publications"
     
   - title: "Select Presentations"
-    url: /portfolio/
+    url: "/#select-presentations" 
         
  # - title: "Blog Posts"
  #   url: /year-archive/
