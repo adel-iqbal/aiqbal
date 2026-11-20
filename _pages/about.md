@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-i graduated from rice university with a degree in neuroscience and have spent time doing research in internal medicine, epilepsy, and mitochondrial biology at texas tech, baylor college of medicine, and ut health san antonio. i've been lucky enough to contribute to published research and present at national medical conferences, including those focused on cardiology, gastroenterology, neurology, and pulmonary medicine. i'm especially interested in understanding why certain health outcomes happen, finding patterns in healthcare data, and figuring out how research can actually make a difference for patients. at the end of the day, i'm just someone who's curious about how the human body works and wants to use science to make healthcare better for everyone.
+i graduated from rice university with a degree in neuroscience and have spent time doing research in internal medicine, epilepsy, and mitochondrial biology at texas tech, baylor college of medicine, and ut health san antonio. i've been lucky enough to contribute to published research and present at national medical conferences, including those focused on cardiology, gastroenterology, neurology, and pulmonary medicine.
 
 edu
 ------
