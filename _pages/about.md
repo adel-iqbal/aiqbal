@@ -14,7 +14,7 @@ edu
 
 baptist college of osteopathic medicine (bluff city)
 
- * do candidate
+ * [do](https://www.mayoclinic.org/healthy-lifestyle/consumer-health/expert-answers/osteopathic-medicine/faq-20058168) candidate
  * 2026 - dropout
 
 rice university (htx)
