@@ -9,7 +9,7 @@ redirect_from:
 
 i graduated from rice university with a degree in neuroscience and have spent time doing research in internal medicine, epilepsy, and mitochondrial biology at texas tech, baylor college of medicine, and ut health san antonio. i've been lucky enough to contribute to published research and present at national medical conferences, including those focused on cardiology, gastroenterology, neurology, and pulmonary medicine. i'm especially interested in understanding why certain health outcomes happen, finding patterns in healthcare data, and figuring out how research can actually make a difference for patients. at the end of the day, i'm just someone who's curious about how the human body works and wants to use science to make healthcare better for everyone.
 
-Education
+edu
 ------
 
 rice university (htx)
@@ -22,7 +22,7 @@ rice university (htx)
   * high school diploma
   * 2016 - 2020
 
-Research Affiliations
+research Affiliations
 ------
 
 department of internal medicine, texas tech university health sciences center (amarillo, tx)
@@ -32,7 +32,7 @@ department of neurology, baylor college of medicine (htx)
 center for mitochondrial medicine, ut san antonio health science center (satx)
 
 
-Select Publications
+puBs
 ------
 1. Yusuf A, Siraj S, Iqbal S, Aslanian A, Nguyen DNC, **Iqbal A\*.** Crofab-Induced Acute Respiratory Distress: An Uncommon Complication of Rattlesnake Antivenom Therapy. CHEST. Volume 168, Issue 4, Supplement, A2331–A2332, October 2025. Publication Status: Published. Article URL: https://doi.org/10.1016/j.chest.2025.07.1353
 1. Aslanian A, Shaikh J, Iqbal S, Sharma S, **Iqbal A\*.** S5989 Invasive Mucinous Adenocarcinoma of the Appendix Masquerading as Acute Appendicitis: A Rare Diagnostic Challenge. The American Journal of Gastroenterology. 120(10S2): S1278, October 2025. Publication Status: Published. Article URL: https://doi.org/10.14309/01.ajg.0001151416.96162.f0
@@ -40,7 +40,7 @@ Select Publications
 1. Sharma S, Aslanian A, Iqbal S, Shaikh J, **Iqbal A\*.** TCT-1070 The Hidden Geography of Acute Myocardial Infarction Mortality: A National Analysis of Regional and Urban-Rural Disparities (2018–2023). JACC. 2025 Oct, 86 (17_Supplement), B456–B457. Publication Status: Published. Article URL: https://doi.org/10.1016/j.jacc.2025.09.1273
 
 
-Select Presentations
+prezzies
 ------
 1. Huang A, Dang R, **Iqbal A\*,** Nguyen C, Govindu S, Tang O, Somani NA, Al-Mohtaseb Z. 63rd Annual National Student Research Forum. Poster presented: Medical Student Research in the Pass/Fail Step 1 Era: An Altmetric Analysis of Ophthalmology Matriculants. Galveston, TX, United States of America; 05/14/2022.
 1. Iqbal S, Yusuf A, **Iqbal A\*.** Heart Failure Society of America (HFSA) Annual Scientific Meeting 2025. Poster presented: Regional and urban-rural disparities in acute myocardial infarction mortality: a national analysis from 2018 to 2023. Minneapolis, MN, United States of America; 09/26/2025–09/29/2025.
