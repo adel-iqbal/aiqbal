@@ -37,7 +37,7 @@ department of neurology, baylor college of medicine (htx)
 center for mitochondrial medicine, ut san antonio health science center (satx)
 
 
-puBs
+puBS
 ------
 1. Yusuf A, Siraj S, Iqbal S, Aslanian A, Nguyen DNC, **Iqbal A\*.** Crofab-Induced Acute Respiratory Distress: An Uncommon Complication of Rattlesnake Antivenom Therapy. CHEST. Volume 168, Issue 4, Supplement, A2331–A2332, October 2025. Publication Status: Published. Article URL: https://doi.org/10.1016/j.chest.2025.07.1353
 1. Aslanian A, Shaikh J, Iqbal S, Sharma S, **Iqbal A\*.** S5989 Invasive Mucinous Adenocarcinoma of the Appendix Masquerading as Acute Appendicitis: A Rare Diagnostic Challenge. The American Journal of Gastroenterology. 120(10S2): S1278, October 2025. Publication Status: Published. Article URL: https://doi.org/10.14309/01.ajg.0001151416.96162.f0
