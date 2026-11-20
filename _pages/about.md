@@ -12,6 +12,11 @@ i graduated from rice university with a degree in neuroscience and have spent ti
 edu
 ------
 
+baptist college of osteopathic medicine (bluff city)
+
+ * do candidate
+ * 2026 - dropout
+
 rice university (htx)
 
  * bachelor of arts, neuroscience
