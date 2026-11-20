@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Curriculum Vitae"
+title: "curriculum vitae"
 author_profile: true
 redirect_from:
   - /about/
