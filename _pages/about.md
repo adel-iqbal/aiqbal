@@ -12,24 +12,24 @@ i graduated from rice university with a degree in neuroscience and have spent ti
 Education
 ------
 
-Rice University (Houston, TX)
+rice university (htx)
 
- * Bachelor of Arts, Neuroscience
+ * bachelor of arts, neuroscience
  * 2020 - 2024
 
- American International School (Riyadh, Saudi Arabia)
+ American International school (riyadh, saudi arabia)
  
-  * International Baccalaureate Diploma Programme
+  * high school diploma
   * 2016 - 2020
 
 Research Affiliations
 ------
 
-Department of Internal Medicine, Texas Tech University Health Sciences Center (Amarillo, TX)
+department of internal medicine, texas tech university health sciences center (amarillo, tx)
 
-Department of Neurology, Baylor College of Medicine (Houston, TX)
+department of neurology, baylor college of medicine (htx)
 
-Center for Mitochondrial Medicine, UT San Antonio Health Science Center (San Antonio, TX)
+center for mitochondrial medicine, ut san antonio health science center (satx)
 
 
 Select Publications
