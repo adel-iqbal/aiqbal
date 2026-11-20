@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a neuroscience graduate of Rice University with research experience encompassing internal medicine, epileptology, and mitochondrial biology across Texas Tech University Health Sciences Center, Baylor College of Medicine, and UT Health San Antonio. My work seeks to reconcile clinical inquiry and data-driven population health, contributing to peer-reviewed publications with contributions to the American Epilepsy Society, American Journal of Gastroenterology, and Journal of the American College of Cardiology, and presentations at national forums including Heart Failure Society of America, American College of Gastroenterology, and the American College of Chest Physicians. I focus on discerning structural patterns in acute care, with a commitment to producing evidence that informs diagnostics and advances equitable patient care.
+i graduated from rice university with a degree in neuroscience and have spent time doing research in internal medicine, epilepsy, and mitochondrial biology at texas tech, baylor college of medicine, and ut health san antonio. i've been lucky enough to contribute to published research and present at national medical conferences, including those focused on cardiology, gastroenterology, neurology, and pulmonary medicine. i'm especially interested in understanding why certain health outcomes happen, finding patterns in healthcare data, and figuring out how research can actually make a difference for patients. at the end of the day, i'm just someone who's curious about how the human body works and wants to use science to make healthcare better for everyone.
 
 Education
 ------
