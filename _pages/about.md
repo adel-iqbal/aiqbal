@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-outside of academia, i'm all about exploring new places, spontaneous adventures, good food, and conversations that somehow last until 3 am. i love meeting interesting people, learning about their lives, and making memories along the way. and yes, i promise i have a personality outside of neuroscience.
+outside of academia, i'm all about exploring new places, spontaneous adventures, good food, and conversations that somehow last until 3 am. i love meeting interesting people, learning about their lives, and making memories along the way. 
 
 edu
 ------
